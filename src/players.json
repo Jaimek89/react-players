@@ -1,0 +1,28 @@
+{
+    "players": [
+        {
+            "name": "Gonçalo Guedes",
+            "team": "Valencia CF",
+            "nationality": "Portugal",
+            "position": "Midfielder"
+        },
+        {
+            "name": "Romelu Lukaku",
+            "team": "Manchester United",
+            "nationality": "Belgium",
+            "position": "Forward"
+        },
+        {
+            "name": "David Silva",
+            "team": "Manchester City",
+            "nationality": "Spain",
+            "position": "Midfielder"
+        },
+        {
+            "name": "Ter Stegen",
+            "team": "FC Barcelona",
+            "nationality": "Germany",
+            "position": "Goalkeeper"
+        }
+    ]
+}
